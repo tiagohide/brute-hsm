@@ -20,4 +20,4 @@ usage:
 python brute.py wordlist.txt library-that-you-want-to-use.dll for default I'm loading the criptoki.dll for eracom connection
 
 
-If you have any think to add please send mail to tvilas at hushmail dot com
+If you have anything to add please send mail to tvilas at hushmail dot com
